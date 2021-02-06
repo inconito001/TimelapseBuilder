@@ -1,0 +1,6 @@
+name: HomeCreator
+version: 1.0.1
+author: inconito001
+main: fr.inconito001.timelapse.Main
+commands:
+  build:
